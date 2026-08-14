@@ -9,7 +9,7 @@
       "Flamengo"
     ],
     "correta": 1,
-    "explicacao": "Maior time do mundo"
+    "explicacao": "Maior time do mundo."
   },
   {
     "nivel": "Fácil",
@@ -21,7 +21,7 @@
       "Sol"
     ],
     "correta": 0,
-    "explicacao": "Maior planeta"
+    "explicacao": "Maior planeta."
   },
   {
     "nivel": "Médio",
@@ -29,46 +29,46 @@
     "alternativas": [
       "Melância",
       "Abacaxi",
-      "Porque eliminam a necessidade de comput",
-      "Porque impedem qualquer erro"
+      "Morango",
+      "Uva"
     ],
-    "correta": 1,
-    "explicacao": "Muitos modelos aprendem padrões a partir de dados."
+    "correta": 0,
+    "explicacao": "Melância é a maior."
   },
   {
     "nivel": "Médio",
-    "enunciado": "Qual atitude é mais adequada ao usar uma resposta gerada por IA?",
+    "enunciado": "Quem faz aniverário em dezembro?",
     "alternativas": [
-      "Publicar imediatamente sem ler",
-      "Considerar toda resposta sempre verdadeira",
-      "Verificar as informações em fontes confiáveis",
-      "Ocultar que a IA foi utilizada em qualquer situação"
+      "Maria Eduarda",
+      "Giovanna",
+      "Elloah",
+      "Ana Julia"
     ],
     "correta": 2,
-    "explicacao": "Respostas de IA podem conter erros e devem ser verificadas."
+    "explicacao": "Nasci em dezembro mesmo."
   },
   {
     "nivel": "Difícil",
-    "enunciado": "O que é viés em um sistema de inteligência artificial?",
+    "enunciado": "Quantos cachorros eu tenho?",
     "alternativas": [
-      "Uma tendência que pode produzir resultados injustos ou distorcidos",
-      "Um recurso usado apenas para aumentar a velocidade da internet",
-      "Uma proteção física instalada no computador",
-      "Um tipo de arquivo de imagem"
+      "1",
+      "10000",
+      "2",
+      "0"
     ],
-    "correta": 0,
-    "explicacao": "O viés pode surgir nos dados, no desenvolvimento ou no uso do sistema."
+    "correta": 3,
+    "explicacao": "Não tenho nenhum."
   },
   {
     "nivel": "Difícil",
-    "enunciado": "Qual princípio contribui para o uso responsável da IA?",
+    "enunciado": "Qual minha cor favorita?",
     "alternativas": [
-      "Coletar qualquer dado sem autorização",
-      "Ignorar impactos sobre as pessoas",
-      "Usar transparência, privacidade e supervisão humana",
-      "Permitir que a máquina tome todas as decisões sem revisão"
+      "Transparente",
+      "Rosa",
+      "Verde",
+      "Arco-íris"
     ],
     "correta": 2,
-    "explicacao": "O uso responsável envolve transparência, proteção de dados e supervisão humana."
+    "explicacao": "Porque eu quero."
   }
 ]
